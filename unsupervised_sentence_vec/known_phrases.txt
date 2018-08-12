@@ -1,0 +1,21 @@
+not a creed but a commitment to follow christ in simple obedience to be faithful disciples in the modern: 0,1,2,3
+brethren: 0,1,2
+brother: 0,1,2
+not a creed but a commitment to follow christ in simple obedience to be faithful disciple in the modern: 0,3
+allah: 4
+conceived of as the supreme being and the principal object of faith: 5,6
+god: 5,6
+sky: 7
+jannah: 8,9
+the muslim concept of heaven paradise in the afterlife: 8,9
+paradise: 10
+heaven: 11,12,13
+wearing unsafe footwear specifically high heels which could pose a safety issue for those: 11,12,13,14
+a common religious cosmological or transcendent place where beings such as gods angels spirits saints or venerated ancestors: 11,12,13,15
+wearing unsafe footwear specifically high heel which could pose a safety issue for those: 12,14
+a common religious cosmological or transcendent place where being such as god angels spirit saint or venerated ancestor: 16,13,15
+a common religious cosmological or transcendent place where being such as god angel spirit saint or venerated ancestor: 16,15
+any member of a diverse and largely carnivorous group of shortbodied tailless amphibians composing the order anura the oldest fossil protofrog: 17,18,19
+frog: 17,18
+any member of a diverse and largely carnivorous group of shortbodied tailles amphibian composing the order anura the oldest fossil protofrog: 17,19,20
+any member of a diverse and largely carnivorous group of shortbodied taille amphibian composing the order anura the oldest fossil protofrog: 19,20
