@@ -116,11 +116,10 @@ def learn(learn_these):
     if len(learn_these) == 0:
         return
     seed = list(learn_these)[0]
-    if seed != '':
-        definitions = define(seed)
-        print('\n\ndefinition of "{}" is {}\n\n'.format(seed,definitions))
-        updateVecs(getIds(definitions))
-        learn_these |= definitions 
+    definitions = define(seed)
+    print('\n\ndefinition of "{}" is {}\n\n'.format(seed,definitions))
+    updateVecs(getIds(definitions))
+    learn_these |= definitions 
     learn_these ^= set([seed])
     learn(learn_these)
 
